@@ -1,4 +1,4 @@
-[![Rocketseat](https://raw.githubusercontent.com/Rocketseat/awesome/master/assets/logo_rocketseat.png)](https://www.rocketseat.com.br/)
+[![Rocketseat](https://discover.fcamara.dev/wp-content/themes/fcamara/img/footer/rocketseat.png)](https://www.rocketseat.com.br/)
 
 # Repositório para arquivar estudos realizados na plataform Rocketseat
 ## Aqui teremos os desafios, exercícios e codigos criados durante os estudos na plataforma 
